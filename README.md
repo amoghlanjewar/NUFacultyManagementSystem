@@ -8,7 +8,7 @@ Welcome to the **Nagpur University Faculty Management System**, a Python-based a
 - **Email**: [amoghlanjewar@gmail.com](mailto:amoghlanjewar@gmail.com)
 
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](#license) section below for details.
+This project is licensed under the **MIT License**. See the [LICENSE](#License) section below for details.
 
 ## Overview
 The Nagpur University Faculty Management System allows users to:
